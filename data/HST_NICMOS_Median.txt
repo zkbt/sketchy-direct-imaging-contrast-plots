@@ -1,0 +1,14 @@
+#Rho(as)     F160W_contr
+#Short caption: HST NICMOS: 5-sigma post-processed [KLIP + match filter] contrast curve for F160W-band; this was the MEDIAN contrast curve from the ALICE program (HST program 7226, and others), with typical integration times of 2hr (600-1600s range). (source: E. Choquet, personal communication) Please cite http://adsabs.harvard.edu/abs/2014SPIE.9143E..57C.
+# References
+# Please cite http://adsabs.harvard.edu/abs/2014SPIE.9143E..57C
+0.5157673708313977  0.00003140245135178175
+0.7907871124941928  0.00001220046747510595
+1.065806854156988   6.482750150075888e-6
+1.3408265958197831  3.986166593716801e-6
+1.6158463374825784  3.52800694263346e-6
+1.8908660791453737  2.6933439545895613e-6
+2.165885820808169   2.1363362260756287e-6
+2.4409055624709635  1.8579954316781446e-6
+2.715925304133759   1.838792641314654e-6
+2.990945045796554   1.5495091365609777e-6
